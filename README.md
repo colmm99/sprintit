@@ -1,0 +1,2 @@
+# sprintit
+Sample Spring APP
